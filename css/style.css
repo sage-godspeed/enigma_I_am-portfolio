@@ -158,14 +158,14 @@ body {
         text-align: justify;
         font-size: 14px;
         display: flex;
-        justify-content: center;
-        align-content: center;
+        display: inline-block; 
+        float: none;
      }
      .skills ul {
         list-style: none;
         display: flex;
-        justify-content: center;
-        align-content: center;
+        display: inline-block; 
+        float: none;
      }
      .skills li {
         display: inline-block;
