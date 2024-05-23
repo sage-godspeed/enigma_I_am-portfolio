@@ -157,6 +157,8 @@ body {
         padding: 3px 15px;
         text-align: justify;
         font-size: 14px;
+        display: flex;
+        justify-content: center;
      }
      .skills ul {
         list-style: none;
